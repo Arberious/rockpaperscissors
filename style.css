@@ -1,0 +1,41 @@
+html {
+ font-family: Arial, Helvetica, sans-serif;
+  background-color: #ddffb3;
+
+  
+  height: 100%;
+  width: 100%;
+}
+
+
+h1 {
+color: ivory;
+  
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #589abb;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: #a85757;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: #18b43f;
+}
+
+
+
